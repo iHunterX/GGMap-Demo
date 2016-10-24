@@ -1,0 +1,6 @@
+framework module Pods_GGMap_DemoTests {
+  umbrella header "Pods-GGMap DemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
